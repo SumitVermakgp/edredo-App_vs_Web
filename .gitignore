@@ -1,0 +1,17 @@
+# IDEs
+.idea
+.vscode
+
+#env
+.env
+
+## OS configs
+.DS_Store
+
+
+# Python
+__pycache__
+.ipynb_checkpoints
+
+# Venv
+edredo
